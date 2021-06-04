@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BakhtiyorKhasanov
-- 👀 I’m interested in coding
+- 👀 I’m interested in PDP
 - 🌱 I’m currently learning react/redux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
